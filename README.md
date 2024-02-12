@@ -13,7 +13,7 @@ Developing a Machine Learning library containing the most known ML algorithms su
 1. Start by creating the virtual Environment
 
 ```bash
- conda create --name My_env --file Requirements.txt &&
+ conda create --name My_env &&
  conda activate My_env
 ```
 2. install the requirement modules 
